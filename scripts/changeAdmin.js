@@ -10,7 +10,7 @@ async function main() {
   let aliveFixedSong;
   let aliveBondedSong;
   let aliveDutchSong;
-
+                 
   let aliveRegistry = "0x0788cbb0eDC91F9f1572bE52686F27FF358617FC";
   let aliveHouse = "0x779757fc834d7D1e9bA65b69Ca24A96E8f169e48";
 

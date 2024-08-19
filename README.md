@@ -18,7 +18,7 @@ Alivecore smart contract is alive house's main smart contract that keep tracks o
 To fetch all the bands created, simply call the function returnAllBands() and it will return all the bands created in an array of object. The output will consist of  
      bandId;
      bandName;
-     bandAddress;
+     bandAddress;             
      deployer;
 
 2) create new band;  
